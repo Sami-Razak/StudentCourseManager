@@ -1,0 +1,2 @@
+# StudentCourseManager
+ Dieses Kotlin-Projekt ist ein einfaches, aber umfassendes System zur Verwaltung von Schülern, Kursen und Noten. Das System ermöglicht es dir, Schülerprofile zu erstellen, ihnen Kurse zuzuweisen und deren Durchschnittsnoten zu berechnen. Darüber hinaus bietet es Funktionen, um zu überprüfen, ob ein Schüler einen Kurs bestanden hat, und bestimmte Statistiken über die Schüler in einer Klasse abzurufen.
